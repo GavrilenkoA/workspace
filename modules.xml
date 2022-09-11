@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/coursera/.idea/coursera.iml" filepath="$USER_HOME$/coursera/.idea/coursera.iml" />
+      <module fileurl="file://$USER_HOME$/gen_bio/.idea/gen_bio.iml" filepath="$USER_HOME$/gen_bio/.idea/gen_bio.iml" />
+      <module fileurl="file://$USER_HOME$/stepic/.idea/stepic.iml" filepath="$USER_HOME$/stepic/.idea/stepic.iml" />
+      <module fileurl="file://$USER_HOME$/tinkoff/.idea/tinkoff.iml" filepath="$USER_HOME$/tinkoff/.idea/tinkoff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
